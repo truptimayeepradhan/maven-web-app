@@ -1,11 +1,10 @@
 <html>
 <body>
-<h1><font color='blue'> Welcome to Ashok IT - Software Training Institute hyd <font></h1>
-<h2>Learn Here.. Lead Anywhere..!! </h2>
+<h1><font color='blue'> Welcome to Trupti's Kitchen <font></h1>
+<h2>Eat Here.. forget others..!! </h2>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
   
-  <h2> Call Us : + 91 - 99 85 39 66 77 </h2>
+  <h2> Call Us : + 91 - 8280247006 </h2>
 
 </body>
 </html>
